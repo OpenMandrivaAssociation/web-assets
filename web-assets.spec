@@ -4,7 +4,7 @@
 
 Name:           web-assets
 Version:        5
-Release:        %mkrel 4
+Release:        1
 Summary:        A simple framework for bits pushed to browsers
 BuildArch:      noarch
 Group:		System/Packaging
