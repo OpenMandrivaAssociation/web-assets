@@ -4,7 +4,7 @@
 
 Name:           web-assets
 Version:        5
-Release:        1
+Release:        2
 Summary:        A simple framework for bits pushed to browsers
 BuildArch:      noarch
 Group:		System/Packaging
